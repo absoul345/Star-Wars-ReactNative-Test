@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AcuminPro-Bold.otf",
+      "sha1": "efaa996218051b75248badaf21f93345f08c39bd"
+    },
+    {
+      "path": "src/assets/fonts/AcuminPro-Medium.otf",
+      "sha1": "33cfbcdac05aa8a5ba09aa7f6a369dacbeaa38a3"
+    },
+    {
+      "path": "src/assets/fonts/AcuminPro-Semibold.otf",
+      "sha1": "bec42086821f8e371a4698a09f7bdc456a2d5230"
+    },
+    {
+      "path": "src/assets/fonts/Boreal-Light.otf",
+      "sha1": "7f693cb05e10514e0e0484bd8eba10d2b035ca70"
+    }
+  ]
+}
